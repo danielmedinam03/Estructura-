@@ -11,6 +11,8 @@ import javax.swing.JOptionPane;
  *
  * @author Ruben
  */
+
+//HOLA COMO ESTAN DANIEL ESCRIBIENDO CODIGO EN JAVA
 public class mVentas {
     double ventas[][];
     int nv;  //Número de vendedores
