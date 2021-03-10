@@ -18,7 +18,9 @@ public class probador {
         int vend, mes, pos;
         
         int op;
-        
+        // JAJAJA HOLA MUNDO
+                
+                
         do{
             op=Integer.parseInt(JOptionPane.showInputDialog(
             "Menú Principal \n"+
